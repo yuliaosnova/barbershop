@@ -1,0 +1,24 @@
+.btn {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 1.33;
+    text-align: center;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.btn:hover,
+.btn:focus {
+    color: #FFFFFF;
+    background-color: var(--accent-color);
+}
+
+.btn-mode-light {
+    color: #303030;
+}
+
+.btn-mode-dark {
+    color: #FFFFFF;
+}

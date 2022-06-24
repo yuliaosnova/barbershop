@@ -1,0 +1,50 @@
+.hero .container {
+    background-color: var(--dark-bg-color);
+}
+.hero .link {
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 1.36;
+    letter-spacing: 0.2em;
+    color: var(--accent-color);
+}
+
+.hero .uppertitle {
+    line-height: 1.36;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: rgba(157, 164, 189, 0.6);
+    font-weight: 600;
+    font-size: 11px;
+}
+
+.hero .title {
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 1.18;
+    letter-spacing: 0.05em;
+    color: var(--accent-color);
+}
+
+.hero .subtitle {
+    line-height: 1.67;
+    letter-spacing: 0.02em;
+    color: #9DA4BD;
+    font-size: 18px;
+}
+
+.slider-btn {
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 1.36;
+    letter-spacing: 0.1em;
+    text-align: right;
+    color: #FFFFFF;
+}
+
+.slider-btn-disable {
+    text-align: left;
+    color: rgba(157, 164, 189, 0.6);
+    background-color: transparent;
+}

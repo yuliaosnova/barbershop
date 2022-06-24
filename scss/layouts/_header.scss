@@ -1,0 +1,23 @@
+.header {
+    background-color: var(--dark-bg-color);
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+}
+
+.navigation-link,
+.header-phone {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 1.33;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+.logo {
+    margin-right: 71px;
+}
+.header-group {
+    margin-left: auto;
+}
