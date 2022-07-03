@@ -21,5 +21,36 @@
 }
 
 .advantages__amount--milk::before {
-    background-image: url("../images/advantages-icons/apples.png");
+    background-image: url("../images/advantages-icons/milk.png");
+    content: " ";
+    height: 50px;
+    width: 33px;
+
+    display: block;
+    margin-bottom:16px;
+   
 }
+.advantages__amount--apples::before {
+    background-image: url("../images/advantages-icons/apples.png");
+    content: " ";
+    height: 50px;
+    width: 33px;
+
+    display: block;
+    margin-bottom: 16px;
+}
+.advantages__amount--heart::before {
+    background-image: url("../images/advantages-icons/heart.png");
+    content: " ";
+    height: 50px;
+    width: 33px;
+    
+    display: block;
+    margin-bottom: 16px;
+}
+// .amount-container {
+//     width: 98px;
+//     height: 56px;
+//     outline: 1px solid #D41443;
+   
+// }
